@@ -5,7 +5,10 @@ https://datathon2019-sentinel2.herokuapp.com/
 
 ## Requirements 
 
-A Python 3.7.1 virtual environment was created for the app, necessary libraries are in `requirements.txt`.
+A Python 3.7.1 virtual environment was created for the app, necessary libraries are in `requirements.txt`. After installation, the app can be run locally as:
+
+python app.py
+
 
 ## Analysis
 
