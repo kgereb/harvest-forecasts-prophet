@@ -11,14 +11,7 @@ import flask
 
 import base64
 import pandas as pd
-#from scipy import stats
 import numpy as np
-
-import dash_daq as daq
-#from datetime import datetime
-#import datetime as dt
-
-import dash
 
 
 df = pd.read_csv("create_tte_data/NDVI_series.csv")
